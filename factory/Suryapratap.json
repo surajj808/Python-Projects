@@ -1,0 +1,9 @@
+{
+	"name": "Suryapratap",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bb3218d3-13b8-487d-a35a-e6850c3421ac",
+		"tenantId": "17694b89-baf9-4057-97ba-6efd706f875b"
+	}
+}
